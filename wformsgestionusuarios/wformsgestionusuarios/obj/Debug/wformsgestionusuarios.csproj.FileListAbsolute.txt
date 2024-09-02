@@ -1,0 +1,25 @@
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\bin\Debug\wformsgestionusuarios.exe.config
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\bin\Debug\wformsgestionusuarios.exe
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\bin\Debug\wformsgestionusuarios.pdb
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.frmAcceso.resources
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.frmMenu.resources
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.Properties.Resources.resources
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.exe
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.pdb
+C:\Users\ALEXANDER\source\repos\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.frmEstudiantes.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\bin\Debug\wformsgestionusuarios.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\bin\Debug\wformsgestionusuarios.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\bin\Debug\wformsgestionusuarios.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.frmAcceso.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.frmEstudiantes.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.frmMenu.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.Properties.Resources.resources
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.csproj.GenerateResource.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\wformsgestionusuarios\wformsgestionusuarios\obj\Debug\wformsgestionusuarios.pdb
